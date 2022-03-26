@@ -26,16 +26,16 @@
 }
 
 .theme {
-  -webkit-transform: translate(18rem, -4rem);
-          transform: translate(18rem, -4rem);
+  -webkit-transform: translate(17.5rem, -4rem);
+          transform: translate(17.5rem, -4rem);
   padding: 0.5rem;
   cursor: pointer;
 }
 
 @media only screen and (max-width: 600px) {
   .theme {
-    -webkit-transform: translate(calc(87vw), -4rem);
-            transform: translate(calc(87vw), -4rem);
+    -webkit-transform: translate(calc(86.5vw), -4rem);
+            transform: translate(calc(86.5vw), -4rem);
   }
   .banner {
     display: -webkit-box;
