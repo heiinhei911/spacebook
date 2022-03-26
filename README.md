@@ -31,7 +31,7 @@ Your posts and likes will be automatically saved to the browser so you have come
 
 ## Credits
 
-Special thanks to NASA and its [image API](https://api.nasa.gov/)
+Special thanks to NASA and its [image API](https://api.nasa.gov/).\
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Created by Steve Sam
