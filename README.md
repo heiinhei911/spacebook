@@ -17,7 +17,7 @@ Inside each post, you will see \(from top to bottom\) the following information:
 - the "thumbs up" or the "like" button
 - the caption of the post
 
-If you see a that you particularly like, you can "like" the post by clicking the "thumbs up" or "Like" button in between the post image and its caption.
+If you see a that you particularly like, you can "like" the post by clicking any part of the "like" button \(either the "thumbs up" button or the "Like" text\) in between the image of the post and the caption.
 
 If you want to see new posts, you can click the "click to view new posts!" button at the bottom to pull in new posts.
 
