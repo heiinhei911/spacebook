@@ -14,6 +14,7 @@
 
 .post-info > .post-author {
   font-size: 1rem;
+  margin-bottom: -0.2rem;
 }
 
 .post-top-section {
@@ -33,7 +34,7 @@
 }
 
 .post-details {
-  color: silver;
+  color: $postDetailsColor;
   margin-bottom: 0.2rem;
 }
 
@@ -41,10 +42,8 @@
   margin: 0 0.4rem;
 }
 
-.post-location {
-  font-size: 0.8rem;
-}
-
+.post-location,
+.post-dot,
 .post-date {
   font-size: 0.8rem;
 }
@@ -90,7 +89,7 @@
 
   .post-info > .post-author {
     font-size: 1rem;
-    margin-bottom: -0.2rem;
+    margin-bottom: -0.3rem;
   }
 
   .post-dot,
