@@ -1,0 +1,39 @@
+@import "../../constants.scss";
+
+.banner {
+  @include flexFour(column, center, center);
+}
+
+.banner-description {
+  width: 98vw;
+  padding: 0.5rem 0 0.5rem 0.5rem;
+  border-bottom: 1px solid $lightModeBorderColor;
+  transform: border-bottom 1s;
+  text-align: center;
+  font-size: 0.8rem;
+  margin-top: -0.8rem;
+}
+
+.theme {
+  transform: translate(18rem, -4rem);
+  padding: 0.5rem;
+  cursor: pointer;
+}
+
+@media only screen and (max-width: 600px) {
+  .theme {
+    transform: translate(calc(87vw), -4rem);
+  }
+  .banner {
+    @include flexFour(column, center, flex-start);
+  }
+
+  .banner-title,
+  .banner-description {
+    padding-left: 0.5rem;
+  }
+
+  .banner-description {
+    text-align: left;
+  }
+}

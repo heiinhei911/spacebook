@@ -1,0 +1,20 @@
+// COLORS
+$darkModeBkgColor: #000000;
+$lightModeBkgColor: #ffffff;
+$darkModeBorderColor: #ffffff;
+$lightModeBorderColor: #d3d3d3;
+$darkModeNewPostsBorderColor: #ffffff;
+$lightModeNewPostsBorderColor: #000000;
+
+// FUNCTIONS
+@mixin flexFour($flexDirection, $justifyContent, $alignItems) {
+  display: flex;
+  flex-direction: $flexDirection;
+  justify-content: $justifyContent;
+  align-items: $alignItems;
+}
+
+@mixin removeBorders() {
+  box-sizing: border-box;
+  margin: 0;
+}
