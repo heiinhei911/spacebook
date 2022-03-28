@@ -69,11 +69,8 @@
 }
 
 .post-like {
-  padding: 0.25rem 0.5rem;
-}
-
-.post-like svg {
   cursor: pointer;
+  padding: 0.25rem 0.5rem;
 }
 
 .post-description {
