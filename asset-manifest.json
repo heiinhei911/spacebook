@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/spacebook/static/css/main.3083f155.css",
+    "main.css": "/spacebook/static/css/main.49f17c75.css",
     "main.js": "/spacebook/static/js/main.87bcb5bb.js",
     "static/js/787.65bdd44b.chunk.js": "/spacebook/static/js/787.65bdd44b.chunk.js",
     "static/media/Billabong.ttf": "/spacebook/static/media/Billabong.0e94b13a1cfb505ff271.ttf",
     "static/media/nasa-logo.png": "/spacebook/static/media/nasa-logo.b5bf6358aadcea680b90.png",
     "index.html": "/spacebook/index.html",
-    "main.3083f155.css.map": "/spacebook/static/css/main.3083f155.css.map",
+    "main.49f17c75.css.map": "/spacebook/static/css/main.49f17c75.css.map",
     "main.87bcb5bb.js.map": "/spacebook/static/js/main.87bcb5bb.js.map",
     "787.65bdd44b.chunk.js.map": "/spacebook/static/js/787.65bdd44b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3083f155.css",
+    "static/css/main.49f17c75.css",
     "static/js/main.87bcb5bb.js"
   ]
 }
