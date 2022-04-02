@@ -6,12 +6,12 @@
 }
 
 @font-face {
-  font-family: "Billabong";
-  src: local("Billabong"), url("./font/Billabong.ttf") format("truetype");
+  font-family: "KlavikaBold";
+  src: local("KlavikaBold"), url("./font/KlavikaBold.otf") format("truetype");
 }
 
 .banner-title {
-  font-family: Billabong, Arial, Helvetica, sans-serif;
+  font-family: KlavikaBold, Arial, Helvetica, sans-serif;
   letter-spacing: 0.1rem;
 }
 
